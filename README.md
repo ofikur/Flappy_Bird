@@ -1,7 +1,7 @@
 # 🐦 Flappy Clone
 
 <div align="center">
-  <img src="screenchot/gambar.png" alt="Main Menu Flappy Clone" width="800"/>
+  <img src="screenshot/gambar.png" alt="Main Menu Flappy Clone" width="800"/>
   
   <br />
   
